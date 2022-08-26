@@ -3,6 +3,7 @@
 
 
 BiocManager::install("airway")
+browseVignettes("airway")
 
 # load libraries
 library(DESeq2)
